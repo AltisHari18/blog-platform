@@ -14,9 +14,12 @@ Users can register, write posts, edit them, and interact through comments — al
 
 \## 🖼️ Preview
 
-
-
 ![Home Page](images/login.png)
+![Home Page](images/register.png)
+![Home Page](images/dashboard.png)
+![Home Page](images/postcreation.png)
+![Home Page](images/postcomments.png)
+
 
 \---
 
