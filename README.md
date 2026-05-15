@@ -13,9 +13,10 @@ Users can register, write posts, edit them, and interact through comments — al
 
 
 🖼️ Screenshots
-🏠 Dashboard
-<div align="center">
 
+<div align="center">
+🏠 Dashboard
+<br/>
 <img src="images/dashboard.png" alt="Dashboard" width="800"/>
 <br/>
 💬 Post and Comments
