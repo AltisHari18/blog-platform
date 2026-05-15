@@ -431,9 +431,9 @@ This project is open source and available under the \[MIT License](LICENSE).
 
 
 
-\*\*Your Name\*\*  
+\*\HariPrakash\*\*  
 
-GitHub: \[@YOUR\_USERNAME](https://github.com/YOUR\_USERNAME)
+GitHub: \[@YOUR\_USERNAME](https://github.com/AltisHari18)
 
 
 
