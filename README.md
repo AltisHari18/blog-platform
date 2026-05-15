@@ -12,16 +12,29 @@ Users can register, write posts, edit them, and interact through comments — al
 
 
 
-\## 🖼️ Preview
-
-![Home Page](images/login.png)
-![Home Page](images/register.png)
-![Home Page](images/dashboard.png)
-![Home Page](images/postcreation.png)
-![Home Page](images/postcomments.png)
-
-
-\---
+🖼️ Screenshots
+<div align="center">
+🏠 Dashboard
+<img src="images/dashboard.png" alt="Dashboard" width="800"/>
+<br/>
+💬 Post and Comments
+<img src="images/postcomments.png" alt="Post Comments" width="800"/>
+<br/>
+✍️ Create Post
+<img src="images/postcreation.png" alt="Post Creation" width="800"/>
+<br/>
+🔐 Login and Register
+<table>
+  <tr>
+    <td><img src="images/login.png" alt="Login" width="390"/></td>
+    <td><img src="images/register.png" alt="Register" width="390"/></td>
+  </tr>
+  <tr>
+    <td align="center">Login Page</td>
+    <td align="center">Register Page</td>
+  </tr>
+</table>
+</div>
 
 
 
