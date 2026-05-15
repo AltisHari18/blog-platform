@@ -20,12 +20,15 @@ Users can register, write posts, edit them, and interact through comments — al
 <img src="images/dashboard.png" alt="Dashboard" width="800"/>
 <br/>
 💬 Post and Comments
+  <br/>
 <img src="images/postcomments.png" alt="Post Comments" width="800"/>
 <br/>
 ✍️ Create Post
+  <br/>
 <img src="images/postcreation.png" alt="Post Creation" width="800"/>
 <br/>
 🔐 Login and Register
+  <br/>
 <table>
   <tr>
     <td><img src="images/login.png" alt="Login" width="390"/></td>
