@@ -16,7 +16,7 @@ Users can register, write posts, edit them, and interact through comments — al
 
 
 
-!\[login](images/login.png)
+(images/login.png)
 
 \---
 
